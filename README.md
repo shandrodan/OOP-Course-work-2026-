@@ -1,7 +1,5 @@
 # OOP Course Work 2026: Employee Management System
 
-> This project is a fallback version created for pure coursework checking. It contains hardcoded values and is intended to demonstrate that the required OOP criteria are implemented.
-
 ## What This Project Does
 
 This project is a small C++ console application for managing employees in a company. It stores different employee types, prints their details, sorts them by salary, searches by name, counts employees above a salary threshold, and calculates the total payroll.
