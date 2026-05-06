@@ -1,5 +1,7 @@
 # OOP Course Work 2026: Employee Management System
 
+Done by: Shyshenko Danylo ITfu-25/1
+
 ## What This Project Does
 
 This project is a small C++ console application for managing employees in a company. It stores different employee types, prints their details, sorts them by salary, searches by name, counts employees above a salary threshold, and calculates the total payroll.
